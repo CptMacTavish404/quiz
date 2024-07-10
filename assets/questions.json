@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "London", "Berlin", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "What is DOCKXS used for?",
+    "answers": [".DOCK", "Database.DOCKXS.IT", "DOK", "DOCKXS Database"],
+    "correctAnswer": "Database.DOCKXS.IT"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answers": ["Paris", "London", "Berlin", "Rome"],
+    "correctAnswer": "Berlin"
+  }
+]
